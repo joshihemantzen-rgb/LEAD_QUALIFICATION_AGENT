@@ -23,7 +23,7 @@ The system automatically receives lead information, validates it, evaluates the 
 
 ## Workflow
 
-![Workflow Architecture](workflow.png)
+![Workflow Architecture](WORKFLOW1.png)
 
 ```text
 Lead Submission
